@@ -1,0 +1,73 @@
+/* Styling for entire site */
+
+*{
+  text-align: center;
+  font-family: 'Cinzel', serif;
+  margin:auto;
+}
+
+/* Wrapper for all content */
+
+body{
+}
+
+.main-content{
+  min-height:80vh;
+  width:98%;
+  margin-top:2.5%;
+  overflow:auto;
+  color:white;
+  background-color: darkgray;
+}
+
+ul{
+  margin-bottom:4em;
+}
+
+li{
+  display:inline;
+}
+
+/* Styling for all links */
+
+a{
+  color:white;
+  text-decoration: none;
+  padding-right:2em;
+  margin-top:1em;
+}
+
+/* Logo image styling */
+
+img{
+  margin-top:2.5em;
+  margin-bottom:5em;
+}
+
+#company-name{
+}
+
+#company-name:hover{
+  color:black;
+}
+
+#about-us{
+  text-align: left;
+  margin-top:2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* @media 1024px */
